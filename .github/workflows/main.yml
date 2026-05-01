@@ -8,7 +8,7 @@ on:
         required: true
         default: 'dikkyrotama'
       agent_description:
-        description: 'asc'
+        description: 'dikkyrotama'
         required: true
         default: 'dikkyrotama AI Agent'
 
